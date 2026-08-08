@@ -1,6 +1,6 @@
 # MacOSFastflag
 macosfastflagyeahyeahuseatyourownrisk
-
+USE AT YOUR OWN RISK  
 
 
 ## Authors
@@ -12,4 +12,9 @@ macosfastflagyeahyeahuseatyourownrisk
 
 ## How to
 
-Type what rendering api you want to use. Only OpenGL works at this time.
+Type what rendering API you want to use. Only Vulkan and OpenGL is implanted at the moment.
+
+
+## What to expect
+
+VERY VERY VERY WIP
