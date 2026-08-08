@@ -1,2 +1,2 @@
 # MacOSFastflag
-macosfastflagyeahyeahuseatyourownrisk/n
+macosfastflagyeahyeahuseatyourownrisk
