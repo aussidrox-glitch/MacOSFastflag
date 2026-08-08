@@ -5,7 +5,7 @@ macosfastflagyeahyeahuseatyourownrisk
 
 ## Authors
 
-- [@aussidrox-glitch$0](https://github.com/aussidrox-glitch$0)
+- [@aussidrox-glitch$0](https://github.com/aussidrox-glitch)
 
 
 
